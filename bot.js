@@ -1,5 +1,5 @@
 const botName = "Q11-Bot";
-const token = "Nzc2NzY2NDE0NjUxOTE2MzM5.X65qGA.QllsXBu362lRmDxRs4f3JbRMjaM"; 
+const token = ""; 
 
 const Discord = require("discord.js");
 const bot = new Discord.Client({disableEveryone: true});
